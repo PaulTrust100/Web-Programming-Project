@@ -16,6 +16,12 @@
 
 <h3>Technological Requiremennts </h3>
 In this project, you are advised to include the following technologies:
+<ul>
+  <li> <b>Frontend:HTML/CSS   </b>  </li>
+   <li> <b> Frontend:Javascript  </b>  </li>
+   <li> <b> Backend  </b>  </li>
+</ul>
+
 
 
 <h2>Publishing your site </h2>
