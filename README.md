@@ -5,7 +5,7 @@
 <h2> Logistical Requirements </h2>
 <ul>
   <li> You may decide to work as an individual on this project or in a group of not more than 3 students  </li>
-  <li>If you decide to work as a group, we may need an individual contribution of each member explictly specified at the end of the project </li>
+  <li>The project must not be done in groups of 2 to 3 members</li>
   <li> We shall have two deadlines for this project </li>
   <ul>
     <li> <b> Tuesday, August 30 at 11:59pm  </b>: Project Proposal is due </li>
