@@ -19,3 +19,6 @@ In this project, you are advised to include the following technologies:
 
 
 <h2>Publishing your site </h2>
+<p> You may use any platform for deplloying your website, but it should be accessible both on mobile and desktop devices </p>
+<p> We reccomend using Heroku <a href = "https://www.heroku.com/"><Visit the webiste for more details</a> </p>
+
