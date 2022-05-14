@@ -7,8 +7,8 @@
   <li>If you decide to work as a group, we may need an individual contribution of each member explictly specified at the end of the project </li>
   <li> We shall have two deadlines for this project </li>
   <ul>
-    <li> Monday </li>
-    <li> Tuesday </li>
+    <li> <b> Tuesday, August 30 at 11:59pm  </b>: Project Proposal is due </li>
+    <li> <b> Monday, October 30 at  11:58 pm <b> Final Project is due</li>
   </ul>
   
 </ul>
