@@ -18,8 +18,29 @@
 In this project, you are advised to include the following technologies:
 <ul>
   <li> <b>Frontend:HTML/CSS   </b>  </li>
+   <ul>
+     <li>  </li>
+      <li>  </li>
+      <li>  </li>
+       <li>  </li>
+      <li>  </li>
+  </ul>
    <li> <b> Frontend:Javascript  </b>  </li>
+   <ul>
+     <li>  </li>
+      <li>  </li>
+      <li>  </li>
+       <li>  </li>
+      <li>  </li>
+  </ul>
    <li> <b> Backend  </b>  </li>
+   <ul>
+     <li>  </li>
+      <li>  </li>
+      <li>  </li>
+       <li>  </li>
+      <li>  </li>
+  </ul>
 </ul>
 
 
