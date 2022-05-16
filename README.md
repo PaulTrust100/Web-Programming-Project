@@ -19,8 +19,9 @@ In this project, you are advised to include the following technologies:
 <ul>
   <li> <b>Frontend:HTML/CSS   </b>  </li>
    <ul>
-     <li> Use Classes and IDs </li>
+     <li> You are advised not to use deprecated CSS tags and for the tags used should be semantically coherent </li>
       <li> Include a CSS animation or transition </li>
+     <li> Most of the application content should be written in raw HTML and CSS, use of high level libraries is not allowed </li>
   </ul>
    <li> <b> Frontend:Javascript  </b>  </li>
    <ul>
