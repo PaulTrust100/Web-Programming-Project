@@ -28,6 +28,7 @@ In this project, you are advised to include the following technologies:
    <li> <b> Frontend:Javascript  </b>  </li>
    <ul>
      <li> Use object-oriented javascript with demonstrated use of ES6 classes  </li>
+     <Li> Capture user data using <code>forms</code></li>
      <li> Use of global variables like <code> var </code>  should be minimised or not used at all</li>
      <li> Using high level libraries like Jquery or React is not allowed in this project</li>
       <li> You should demonstrate clear understanding of events and clear communication between your classes</li>
