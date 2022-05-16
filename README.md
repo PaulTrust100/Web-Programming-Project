@@ -1,12 +1,11 @@
 <h1> Kibo School of Technology Web Programming Project </h1>
 <h2>Summary</h2>
-Climate Change is a real and undeniable threat to our entire civilization. United Nations Sustainable Development Goal 13 calls the world to take an action to combat climate change and its impact before it is too late. Climate change is responsible for increasing the frequency and intensity of extreme weather events including but not limited to heat waves, droughts, floods and this has lead to reduced agricultural production, food insecurity, health risks and increased global emissions.
+Climate Change is a real and undeniable threat to every country and possibly an entire civilation, greehouse gas emmisions are more than 50% higher than they were in 1990. United Nations Sustainable Development Goal 13 calls the world to take an action to combat climate change and its impact before it is too late. Climate change is responsible for increasing the frequency and intensity of extreme weather events including but not limited to heat waves, droughts, floods and this has lead to reduced agricultural production, food insecurity, health risks and increased global emissions.
 <p>Everyone has a responsibility and something to contribute to reduces the worsening effects of climate changes and to contribute to achieving the SDG targets.
 As a computer science student who has finised a course on web programming, we would like you to design a web application that contributes to the bigger goal of climate actions by solving one of the related causes of climate changes.
 </p>
 <h2> Objectives </h2> 
 <ol>
-  <li></li>
   <li>Improve communication and colloboration skills of the students </li>
   <li> Design a web application that helps to combat climate change </li>
   <li>Learn how to use web technologies to solve real world problems  </li>
