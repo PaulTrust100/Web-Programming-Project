@@ -32,17 +32,16 @@ In this project, you are advised to include the following technologies:
   </ul>
    <li> <b> Backend  </b>  </li>
    <ul>
-     <li> Use Node </li>
-      <li> Include atleast 1 GET route </li>
-      <li>  Include atleast 1 POST route</li>
-       <li> Including a databases will be an added advantage </li>
+     <li> We highly reccomend using Node library for your backend </li>
+     <li> Efficient use of HTTP methods like <code>GET</code> and <code>POST</code> is expected instead of saving data directly to the file system </li>
+       <li> Including  databases will be an added advantage </li>
   </ul>
 </ul>
 
 
 
 <h2>Publishing your site </h2>
-<p> You may use any platform for deplloying your website, but it should be accessible both on mobile and desktop devices </p>
+<p> You may use any platform for deploying your website, but it should be accessible both on mobile and desktop devices </p>
 <p> We reccomend using Heroku <a href = "https://www.heroku.com/">Visit the webiste for more details</a> </p>
 
 <h2> Style Points</h2>
