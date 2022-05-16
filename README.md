@@ -44,6 +44,7 @@ In this project, you are advised to include the following technologies:
   </ul>
    <li> <b> Backend  </b>  </li>
    <ul>
+     <li> Your backend should be able to collect, process and store user </li>
      <li> We highly reccomend using Node library for your backend </li>
      <li> Efficient use of HTTP methods like <code>GET</code> and <code>POST</code> is expected instead of saving data directly to the file system </li>
        <li> Including  databases will be an added advantage </li>
