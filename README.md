@@ -26,6 +26,7 @@ In this project, you are advised to include the following technologies:
    <li> <b> Frontend:Javascript  </b>  </li>
    <ul>
      <li> Use object-oriented javascript with demonstrated use of ES6 classes  </li>
+     <li> Use of global variables like <code> var </code>  should be minimised or not used at all</li>
       <li> Listen to atleast 3 events </li>
   </ul>
    <li> <b> Backend  </b>  </li>
