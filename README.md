@@ -59,7 +59,7 @@ In this project, you are advised to include the following technologies:
 <h2> Extra Credits  </h2>
 <ul>
   <li>We shall award credit for the practically oriented solution that can directly be deployed. </li>
-   <li>EXtra credit will also be awarding for a visually appealing website.</li>
+   <li>Extra credit will also be awarding for a visually appealing website.</li>
    <li>Clean and consistent written code will also be rewarded.</li>
   
   </ul>
