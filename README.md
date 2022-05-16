@@ -29,7 +29,7 @@ In this project, you are advised to include the following technologies:
   </ul>
    <li> <b> Backend  </b>  </li>
    <ul>
-     <li> Use Node and  </li>
+     <li> Use Node </li>
       <li> Include atleast 1 GET route </li>
       <li>  Include atleast 1 POST route</li>
        <li> Including a databases will be an added advantage </li>
