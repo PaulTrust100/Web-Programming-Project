@@ -1,6 +1,8 @@
 <h1> Kibo School of Technology Web Programming Project </h1>
-<h2>Project Requirements </h2>
-<p>This project is open-ended, but we shall have particular requirements as we shall describe in details in sections below</p>
+<h2>Summary and Objectives </h2>
+<p>This project is web programming project that will require you to design an application using the the technologies we have studied over the last quarter. There 
+  
+  open-ended, but we shall have particular requirements as we shall describe in details in sections below</p>
 <p> We are leaving the problem to be solved to be open for you to be able to solve problems that you are passionate about, we shall be there at every step to help you identify and formulate your application </p>
 <h2> Logistical Requirements </h2>
 <ul>
@@ -51,6 +53,7 @@ In this project, you are advised to include the following technologies:
 <h2> Project Ideas </h2>
 
 <h2> Deliverables </h2>
+<h2>References</h2>
 
 
 
