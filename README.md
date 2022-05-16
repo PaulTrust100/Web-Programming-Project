@@ -27,7 +27,8 @@ In this project, you are advised to include the following technologies:
    <ul>
      <li> Use object-oriented javascript with demonstrated use of ES6 classes  </li>
      <li> Use of global variables like <code> var </code>  should be minimised or not used at all</li>
-      <li> Listen to atleast 3 events </li>
+     <li> Using high level libraries like Jquery or React is not allowed in this project</li>
+      <li> You should demonstrate clear understanding of events and clear communication between your classes</li>
   </ul>
    <li> <b> Backend  </b>  </li>
    <ul>
