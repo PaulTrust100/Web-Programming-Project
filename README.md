@@ -1,10 +1,8 @@
 <h1> Kibo School of Technology Web Programming Project </h1>
 <h2>Summary and Objectives </h2>
 <p>This project is web programming project that will require you to design an application using the the technologies we have studied over the last quarter. Since the announcement of the first case of Covid-19, there was an exponential growth in the number of cases to millions of people killing many people in the world. This forced the world to change in the way they live with an adoption of remote working and studying because people could not be in large groups. As of May 2022, there seems to be light in the tunnel with reduction in the hospitalisation and death numbers due to the virus. There were many technologies that were adopted and also created to react to this change. </p>
-<p> You are required to design a web aplication that is aimed to solve either a </p>
+<p> You are required to design a web aplication that is aimed to solve society problems that either were caused by the pandemic or are the effects of the pandemic. The project should be aimed at </p>
   
-  open-ended, but we shall have particular requirements as we shall describe in details in sections below</p>
-<p> We are leaving the problem to be solved to be open for you to be able to solve problems that you are passionate about, we shall be there at every step to help you identify and formulate your application </p>
 <h2> Logistical Requirements </h2>
 <ul>
   <li> You may decide to work as an individual on this project or in a group of not more than 3 students  </li>
@@ -51,8 +49,13 @@ In this project, you are advised to include the following technologies:
 <h2> Style Points</h2>
 
 <h2> Extra Credits  </h2>
+<ul>
+  <li>We shall award credit for the practically oriented solution that can directly be deployed. </li>
+   <li>EXtra credit will also be awarding for a visually appealing website.</li>
+   <li>Clean and consistent written code will also be rewarded.</li>
+  
+  </ul>
 
-<h2> Project Ideas </h2>
 
 <h2> Deliverables </h2>
 <h2>References</h2>
