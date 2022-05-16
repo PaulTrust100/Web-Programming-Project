@@ -19,27 +19,20 @@ In this project, you are advised to include the following technologies:
 <ul>
   <li> <b>Frontend:HTML/CSS   </b>  </li>
    <ul>
-     <li>  </li>
-      <li>  </li>
-      <li>  </li>
-       <li>  </li>
-      <li>  </li>
+     <li> Use Classes and IDs </li>
+      <li> Include a CSS animation or transition </li>
   </ul>
    <li> <b> Frontend:Javascript  </b>  </li>
    <ul>
-     <li>  </li>
-      <li>  </li>
-      <li>  </li>
-       <li>  </li>
-      <li>  </li>
+     <li> Use object-oriented javascript with demonstrated use of ES6 classes  </li>
+      <li> Listen to atleast 3 events </li>
   </ul>
    <li> <b> Backend  </b>  </li>
    <ul>
-     <li>  </li>
-      <li>  </li>
-      <li>  </li>
-       <li>  </li>
-      <li>  </li>
+     <li> Use Node and  </li>
+      <li> Include atleast 1 GET route </li>
+      <li>  Include atleast 1 POST route</li>
+       <li> Including a databases will be an added advantage </li>
   </ul>
 </ul>
 
