@@ -1,7 +1,7 @@
 <h1> Kibo School of Technology Web Programming Project </h1>
 <h2>Summary and Objectives </h2>
-<p>This project is web programming project that will require you to design an application using the the technologies we have studied over the last quarter. Since the announcement of the first case of Covid-19, there was an exponential growth in the number of cases to millions of people killing many people in the world. This forced the world to change in the way they live with an adoption of remote working and studying because people could not be in large groups. As of May 2022, there seems to be light in the tunnel with reduction in the hospitalisation and death numbers due to the virus. There were many technologies that were adopted and also created to react to this change. </p>
-<p> You are required to design a web aplication that is aimed to solve society problems that either were caused by the pandemic or are the effects of the pandemic. The project should be aimed at </p>
+Climate Change is a real and undeniable threat to our entire civilization. United Nations Sustainable Development Goal 13 calls the world to take an action to combat climate change and its impact before it is too late. Climate change is responsible for increasing the frequency and intensity of extreme weather events including but not limited to heat waves, droughts, floods and this has lead to reduced agricultural production, food insecurity, health risks and increased global emissions.
+Sustainable Development Goal 13 
   
 <h2> Logistical Requirements </h2>
 <ul>
