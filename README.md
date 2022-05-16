@@ -6,10 +6,10 @@ As a computer science student who has finised a course on web programming, we wo
 </p>
 <h2> Objectives </h2> 
 <ol>
-  <li> </li>
-  <li> </li>
-  <li> </li>
-  <li> </li>
+  <li></li>
+  <li>Improve communication and colloboration skills of the students </li>
+  <li> Design a web application that helps to combat climate change </li>
+  <li>Learn how to use web technologies to solve real world problems  </li>
   </ol>
 <h2> Logistical Requirements </h2>
 <ul>
