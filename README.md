@@ -5,6 +5,12 @@ Climate Change is a real and undeniable threat to our entire civilization. Unite
 As a computer science student who has finised a course on web programming, we would like you to design a web application that contributes to the bigger goal of climate actions by solving one of the related causes of climate changes.
 </p>
 <h2> Objectives </h2> 
+<ol>
+  <li> </li>
+  <li> </li>
+  <li> </li>
+  <li> </li>
+  </ol>
 <h2> Logistical Requirements </h2>
 <ul>
   <li> This is a group project and cannot be individually unless in specific circumstances explained to the instructor </li>
