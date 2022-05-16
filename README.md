@@ -14,7 +14,7 @@
   
 </ul>
 
-<h3>Technological Requiremennts </h3>
+<h3>Technological and Style Requiremennts </h3>
 In this project, you are advised to include the following technologies:
 <ul>
   <li> <b>Frontend:HTML/CSS   </b>  </li>
