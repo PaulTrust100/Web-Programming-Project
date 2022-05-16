@@ -4,10 +4,10 @@ Climate Change is a real and undeniable threat to our entire civilization. Unite
 <p>Everyone has a responsibility and something to contribute to reduces the worsening effects of climate changes and to contribute to achieving the SDG targets.
 As a computer science student who has finised a course on web programming, we would like you to design a web application that contributes to the bigger goal of climate actions by solving one of the related causes of climate changes.
 </p>
-  
+<h2> Objectives </h2> 
 <h2> Logistical Requirements </h2>
 <ul>
-  <li> You may decide to work as an individual on this project or in a group of not more than 3 students  </li>
+  <li> This is a group project and cannot be individually unless in specific circumstances explained to the instructor </li>
   <li>The project must not be done in groups of 2 to 3 members</li>
   <li> We shall have two deadlines for this project </li>
   <ul>
@@ -56,9 +56,6 @@ In this project, you are advised to include the following technologies:
    <li>Clean and consistent written code will also be rewarded.</li>
   
   </ul>
-
-
-<h2> Deliverables </h2>
 <h2>References</h2>
 
 
