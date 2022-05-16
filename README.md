@@ -1,7 +1,9 @@
 <h1> Kibo School of Technology Web Programming Project </h1>
-<h2>Summary and Objectives </h2>
+<h2>Summary</h2>
 Climate Change is a real and undeniable threat to our entire civilization. United Nations Sustainable Development Goal 13 calls the world to take an action to combat climate change and its impact before it is too late. Climate change is responsible for increasing the frequency and intensity of extreme weather events including but not limited to heat waves, droughts, floods and this has lead to reduced agricultural production, food insecurity, health risks and increased global emissions.
-Sustainable Development Goal 13 
+<p>Everyone has a responsibility and something to contribute to reduces the worsening effects of climate changes and to contribute to achieving the SDG targets.
+As a computer science student who has finised a course on web programming, we would like you to design a web application that contributes to the bigger goal of climate actions by solving one of the related causes of climate changes.
+</p>
   
 <h2> Logistical Requirements </h2>
 <ul>
@@ -20,6 +22,7 @@ In this project, you are advised to include the following technologies:
 <ul>
   <li> <b>Frontend:HTML/CSS   </b>  </li>
    <ul>
+     <li> Your application should be user friendly to the domain experts </li>
      <li> You are advised not to use deprecated CSS tags and for the tags used should be semantically coherent </li>
       <li> Include a CSS animation or transition </li>
      <li> Most of the application content should be written in raw HTML and CSS, use of high level libraries is not allowed </li>
@@ -45,8 +48,6 @@ In this project, you are advised to include the following technologies:
 <h2>Publishing your site </h2>
 <p> You may use any platform for deploying your website, but it should be accessible both on mobile and desktop devices </p>
 <p> We reccomend using Heroku <a href = "https://www.heroku.com/">Visit the webiste for more details</a> </p>
-
-<h2> Style Points</h2>
 
 <h2> Extra Credits  </h2>
 <ul>
