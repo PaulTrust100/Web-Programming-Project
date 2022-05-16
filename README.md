@@ -1,5 +1,5 @@
 <h1> Kibo School of Technology Web Programming Project </h1>
-<h2>Summary</h2>
+<h2>Description</h2>
 Climate Change is a real and undeniable threat to every country and possibly an entire civilation, greehouse gas emmisions over the years have been increasing with the current emmisions being 50% higher than they were in 1990. Climate change is responsible for increasing the frequency and intensity of extreme weather events including but not limited to heat waves, droughts, floods and this has lead to reduced agricultural production, food insecurity, health risks. The losses both interms of economic and lives lost as a result of climate changes can not be underestimated.
 
 <p>United Nations under its Sustainable Development Goal 13 calls the world to take an action to combat climate change and its impact before it is too late. 
@@ -64,6 +64,12 @@ In this project, you are advised to include the following technologies:
    <li>Clean and consistent written code will also be rewarded.</li>
   
   </ul>
+<h2> Submission </h2>
+<ul>
+  <li> Both the proposal and the final project will involve presentation to the class in presence of the instructor  </li>
+   <li>Share your project materials on Moodle <a href="https://moodle.com/">Link</a> with your a video of your project description and functionalities </li>
+  </ul>
+
 <h2>References</h2>
 <a href="https://sdgs.un.org/goals/">UN Sustinable Development Goals</a>
 
